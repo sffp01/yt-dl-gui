@@ -1,0 +1,18 @@
+{
+    "Preferences": "환경설정",
+    "Download": "다운로드",
+    "Language": "언어",
+    "Path": "경로",
+    "Change path": "경로 변경",
+    "Open folder": "폴더 열기",
+    "Reset path": "경로 초기화",
+    "Close": "닫기",
+    "Video": "비디오",
+    "Audio": "오디오",
+    "Pause": "중지",
+    "Clear": "완료 목록 정리",
+    "Auto download": "자동 다운로드",
+    "Remove": "목록에서 삭제",
+    "You are downloading a video, would you like to stop it?": "다운로드 중인 비디오입니다. 취소하시겠습니까?",
+    "Version": "버전"
+}

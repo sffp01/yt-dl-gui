@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'NotoSansKR';
+  src: url('./assets/fonts/Noto_Sans_KR/NotoSansKR-Light.otf') format('opentype');
+}
+
+:root {
+  --fallback-title-bar-height: 56px;
+  --bg-slate-50: rgb(248 250 252);
+  --bg-slate-300: rgb(203 213 225);
+  --bg-slate-500: rgb(100 116 139);
+  --bg-slate-900: rgb(15 23 42);
+}
+
+body {
+  font-family: 'NotoSansKR';
+  margin: 0;
+  background-color: var(--bg-slate-300);
+}
