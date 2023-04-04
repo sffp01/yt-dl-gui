@@ -3,7 +3,7 @@ YT-DL-GUI
 
 YT-DL-GUI is a YouTube video downloader made with [Electron](https://github.com/electron/electron) and [ytdl-core](https://github.com/fent/node-ytdl-core).
 
-![YT-DL-GUI](http://localhost:3000/yt-dl-gui/md/images/yt-dl-gui.png)
+![YT-DL-GUI](https://sffp01.github.io/yt-dl-gui/md/images/yt-dl-gui.png)
 
 Features
 ---

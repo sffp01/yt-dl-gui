@@ -3,7 +3,7 @@ YT-DL-GUI
 
 YT-DL-GUI는 [Electron](https://github.com/electron/electron)과 [ytdl-core](https://github.com/fent/node-ytdl-core)으로 만든 유튜브 비디오 다운로더입니다.
 
-![YT-DL-GUI](http://localhost:3000/yt-dl-gui/md/images/yt-dl-gui.png)
+![YT-DL-GUI](https://sffp01.github.io/yt-dl-gui/md/images/yt-dl-gui.png)
 
 특징
 ---
