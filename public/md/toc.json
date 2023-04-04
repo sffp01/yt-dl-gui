@@ -1,0 +1,38 @@
+{
+    "en": [
+        {
+            "label": "Home",
+            "mdName": "Home"
+        },
+        {
+            "label": "Download",
+            "mdName": "Download"
+        },
+        {
+            "label": "How to use YT-DL_GUI?",
+            "mdName": "Use_YT-DL-GUI"
+        },
+        {
+            "label": "License",
+            "mdName": "License"
+        }
+    ],
+    "ko": [
+        {
+            "label": "홈",
+            "mdName": "Home"
+        },
+        {
+            "label": "다운로드",
+            "mdName": "Download"
+        },
+        {
+            "label": "YT-DL_GUI 사용법",
+            "mdName": "Use_YT-DL-GUI"
+        },
+        {
+            "label": "라이센스",
+            "mdName": "License"
+        }
+    ]
+}
