@@ -168,6 +168,8 @@ const createWindow = () => {
   
     ipcMain.on("SEND_GET_STATE", (event, args) => event.reply("REPLY_DOWNLOAD", {isDownload: isDownload}));
 
+    ipcMain.on("SEND_OPEN_HELP", (event, args) => execSync(`start /max ${args.url}`));
+
     mainWindow.webContents.session.on('will-download', (event, item, webContents) => {
       downloadItem = item;
       
