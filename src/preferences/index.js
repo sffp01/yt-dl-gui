@@ -5,7 +5,6 @@ import { useState } from "react";
 import i18next from "../i18next";
 import { useTranslation } from "react-i18next";
 import { AiOutlineClose, AiOutlineFolder, AiOutlineFolderOpen, AiOutlineUndo,  } from "react-icons/ai";
-import { MdHelpOutline } from "react-icons/md";
 const { ipcRenderer } = window.require("electron");
 
 const Preferences = () => {
@@ -83,10 +82,6 @@ const Preferences = () => {
                         </button>
                     </div>
                 </div>
-            </div>
-            <div className="flex justify-end items-center mt-4">
-                <MdHelpOutline size={16} />
-                <button className="text-sm text-slate-900 pl-2" onClick={() => ipcRenderer.send("SEND_OPEN_HELP", {url: "https://sffp01.github.io/yt-dl-gui/"})} >{t("Help")}</button>
             </div>
             <div className="flex justify-end items-center mt-4">
                 <button className="flex justofy-center items-center" onClick={() => setIsPreferences(false)}>
