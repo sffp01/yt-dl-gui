@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yt-dl-gui/static/css/main.47f0eaaf.css",
-    "main.js": "/yt-dl-gui/static/js/main.0f6461ae.js",
+    "main.js": "/yt-dl-gui/static/js/main.523cc5b3.js",
     "index.html": "/yt-dl-gui/index.html",
     "main.47f0eaaf.css.map": "/yt-dl-gui/static/css/main.47f0eaaf.css.map",
-    "main.0f6461ae.js.map": "/yt-dl-gui/static/js/main.0f6461ae.js.map"
+    "main.523cc5b3.js.map": "/yt-dl-gui/static/js/main.523cc5b3.js.map"
   },
   "entrypoints": [
     "static/css/main.47f0eaaf.css",
-    "static/js/main.0f6461ae.js"
+    "static/js/main.523cc5b3.js"
   ]
 }
